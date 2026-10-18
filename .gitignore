@@ -6,3 +6,4 @@ keystore.properties
 *.jks
 *.keystore
 *.log
+*~
